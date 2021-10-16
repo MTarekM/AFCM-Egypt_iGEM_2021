@@ -15,15 +15,19 @@ Engineering enhanced versions of proteins requires complex processes that integr
 This Repo contains four notebooks, each represent functions to encode relevant features:
 
 1-Generate_&_Compute_Independent_&_Epistatic_effects_of_Combinatorial_&_Scanning_libraries(1).ipynb
+
 This runs the generator function and performs the independent and epistatic effects predictions.
 
 2-Functions_for_Global_Evo_features.ipynb
+
 This encodes global evolutioanry features.
 
 3-Functions_for_Local_Evo_features.ipynb
+
 This encodes local evolutioanry features.
 
 4-Functions_for_Physicochemical_paramters_features_&_components.ipynb
+
 This encodes physicochemical paramters.
 
 Feel free to know more about our computational approach for protein engineeting
