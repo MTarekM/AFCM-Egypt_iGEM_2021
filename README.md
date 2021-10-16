@@ -10,7 +10,7 @@ Summary:
 
 Engineering enhanced versions of proteins requires complex processes that integrate various measurements. This process is often overwhelmed by challenges that are specific for each engineering case. Herein, we have developed a computational approach that integrates predictions of mutational effects on evolutionary fitness with encodings for local and global features representations of protein sequences. These features were used to design a machine learning framework in an approach to accurately predict fit variants without necessitating experimental inputs. 
 
-![Pipeline](https://raw.githubusercontent.com/MTarekM/AFCM-Egypt_iGEM_2021/main/DE%20Pipeline.jpg)
+![Pipeline](https://raw.githubusercontent.com/MTarekM/AFCM-Egypt_iGEM_2021/main/1.jpg)
 
 This Repo contains four notebooks, each represent functions to encode relevant features:
 
