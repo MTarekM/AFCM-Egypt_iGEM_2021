@@ -16,7 +16,8 @@ This Repo contains four notebooks, each represent functions to encode relevant f
 
 1-Generate_&_Compute_Independent_&_Epistatic_effects_of_Combinatorial_&_Scanning_libraries(1).ipynb
 
-This runs the generator function and performs the independent and epistatic effects predictions.
+This runs the generator function and performs the independent and epistatic effects predictions. The notebook is based on an example with
+the Oligopeptide transport ATP-binding protein AmiE.
 
 2-Functions_for_Global_Evo_features.ipynb
 
