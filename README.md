@@ -18,6 +18,7 @@ This Repo contains four notebooks, each represent functions to encode relevant f
 
 This runs the generator function and performs the independent and epistatic effects predictions. The notebook is based on an example with
 the Oligopeptide transport ATP-binding protein AmiE.
+#Function_Encoder2 > Provides epistatic predictions based on coupling potential four only mutated positions vs Encoder that provides coupling potentials for the whole protein sequence. Where the Encoder provides more accurate predictions, while Encoder2 is more time-efficient.
 
 2-Functions_for_Global_Evo_features.ipynb
 
